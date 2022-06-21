@@ -6,7 +6,8 @@
       "invoice_number": "BGCC000001",
       "report_data_id": null,
       "start_date": "2021-02-10",
-      "end_date": "2021-02-11"
+      "end_date": "2021-02-11",
+      "status": "open"
    },
    {
       "company_name": "IF Skadeförsäkring AB",
@@ -15,6 +16,7 @@
       "invoice_number": "ISA000003",
       "report_data_id": "d2f205a9-f724-48b4-84ed-e1d2db5c7ef6",
       "start_date": "2021-02-16",
-      "end_date": "2021-02-17"
+      "end_date": "2021-02-17",
+      "status": "approved"
    }
 ]

@@ -1,22 +1,1352 @@
 [
-   {
-      "company_name": "Brf Gladan",
-      "id": "008ed8bd-86ae-4924-bd28-4ce4fe476c0f",
-      "invoice_data_id": null,
-      "invoice_number": "BGCC000001",
-      "report_data_id": null,
-      "start_date": "2021-02-10",
-      "end_date": "2021-02-11",
-      "status": "open"
-   },
-   {
-      "company_name": "IF Skadeförsäkring AB",
-      "id": "00cb0717-a41b-4cca-b649-bdecf7bc4355",
-      "invoice_data_id": "eba10efd-da96-4f15-917e-7f2b5b9a3fcf",
-      "invoice_number": "ISA000003",
-      "report_data_id": "d2f205a9-f724-48b4-84ed-e1d2db5c7ef6",
-      "start_date": "2021-02-16",
-      "end_date": "2021-02-17",
-      "status": "approved"
-   }
+  {
+    "id": "353d3921-3a78-49cb-9111-65618ceb8c16",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "70a300ec-6262-4bce-ae01-80d5793f43a4",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "94f34cac-90d4-4a1f-b6ca-83a9c2cdd4e9",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "7188ad27-158f-4d51-a119-8f8341eaa284",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9d1ed37c-5ed4-4ee4-9d8b-8581780b19a6",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "c120d7b0-dc8c-43b5-ac68-702dc0a78a8b",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "6a93bbf4-eacc-4181-8ad8-2383ca1343eb",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f8d9a293-df9d-405c-9623-8baf0dd633ec",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e43ffa3c-dc22-4cf0-b33b-81b7241c1efe",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "930c4aab-b61e-4816-8a37-ac5a05dd5914",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "84661519-9a29-429d-8fea-8f6113add87e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ac89a440-0afc-4f5d-82df-a7fd33986962",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "34b246e3-0134-4186-99ec-7f72195a0432",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "af9b37fc-e546-4baf-8edf-9995a2ae22e3",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f0ef7abf-30b8-4934-97f0-909afbc5742f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d8156a9f-1fdc-4268-b079-0e4d71c422ea",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "698aa2f5-2696-4571-a32a-94db22ec816f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "5cab1b43-23d4-4140-885a-35592352d35f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e246b216-a525-4b27-9d88-d33988729785",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e80dc9da-adbf-48f5-99c5-4fc168e67658",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e115e0ef-e2e8-48fb-8aba-efffbd6d399d",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "adee2489-f596-4ede-b0ce-3d94ad8a97fe",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e5c31a80-138b-423b-a198-136846dcd453",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "c28a2ce3-1787-4361-a832-a4ce342d2bec",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "2e55fa89-b855-40eb-a239-eb7543c30b9d",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "5ee525fe-0a78-4c9b-ab57-d18d33d468f8",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "3e0355b2-2539-472c-b247-66e7a959bfa8",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "c5abcd03-f60a-47ca-822a-9c1d4d29914c",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "b5acc844-3c91-4714-a377-9b484a3187af",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d27e9dd4-5f9f-469b-8361-299be7260cb8",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a0ade56c-cd40-4c91-96d4-cc8ff9e55b56",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "29ec287f-9ff8-425a-acae-0dd239d54e98",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "025bf7f1-585e-41cd-b59e-29c8003b04de",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "84f098b0-035d-4a01-b0f1-aee83afc98cc",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "68bca9e3-b9cf-4400-b8b4-fdb2aa380711",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9ed2d407-6734-49e8-9eae-e516dd85b648",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ec60fc45-a273-4ae8-b934-b0c30211f5e2",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "4f98e01c-115d-4ade-96e8-02e3cd042bcb",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "6f995479-6e02-4703-9e60-340c65ca662b",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d017c4b0-1cfd-45ec-ae3e-4b6517422253",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "fb049d39-746d-49a2-8f02-b9a2791d2714",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "43f5f8ad-fd75-48e8-80e8-12542e2e3ae6",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ea21da80-6795-4f00-bde3-6e046c916778",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "13de6939-0ace-4fc8-aee0-d55344c00f0a",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "dbbfa7cc-b43f-4363-b0f4-8ca9b0b137aa",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "4691e9b4-725b-4411-923b-24c7c409b517",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "c50dbd40-121c-4317-9f70-c3c63ed4435a",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9bffa994-e549-4286-8b4d-9bae219d882e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f7088a0d-dec8-4640-87de-851c198f433b",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a46b26af-4aa7-4280-baa2-7c0716c37eff",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "899935b3-052d-4aa7-9bf6-edcc179243cb",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9e6b9711-ec20-4cf8-b79b-0fa5726edb8e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "3b6968ad-b006-4f8e-8475-9309ac5160fd",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "65aac1de-6e64-47f4-ac44-63698ca66d58",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "aa2a126d-e418-488a-aead-cda0360b83b0",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "0f76472f-07fe-46ad-a15d-6afe6f99a159",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "0ac8b564-e844-40f1-9248-25945882ffb2",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "94938dfd-8a5e-4a6f-93f2-3b82ab296bee",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "769adf5b-b200-49c5-bfc4-dab69b1f1458",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ad5cf45b-0280-4329-aaad-4e5764fc1c43",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "cbcab35a-0a2d-42f0-855f-197e52b55080",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "6855218e-9089-4b34-983a-f132721a6885",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "1e9e5cea-2bef-4a2f-bc6c-660d43c1d6ae",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "376e9d33-4420-464c-bd1f-94a0d72259f7",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "20fffd77-ddfe-4771-bcb0-ed6b546637af",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "eb73a3ce-bb08-4d91-a946-5a8b662a358a",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "19c133fa-82b3-491a-a0cc-41d8d2d39286",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "5e400687-55e4-4148-bdb7-2f1ba248c084",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ca2f3cd3-ccb4-41e8-badf-cbb25ff4eac0",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "62517f05-0b80-4618-8ff6-59580c0ea028",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a036b2eb-8833-4467-ac8c-6cae70cb221f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "fd1da93f-9a5c-4b7e-8d98-d4282e9b368c",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "46b98f1d-2116-4eb4-9942-bb8a289e2a6a",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "813b5cf1-d640-4d2a-a3ab-a391a8a15d16",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "881bc970-fe4b-4816-96f4-807cbc6d2e63",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "0d59cdd0-49d5-4f16-9e45-92c6fcd5941c",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "06f0368b-9d46-4d6c-8fb6-a6e1736aa295",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e1b1b4cc-60ee-4b15-9aec-03488ca43eed",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "174375c8-f77b-4274-bd46-9ac3896d2a70",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f8bba2b2-cf6e-4759-a0b6-560e52f7b88e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "25d056c9-0ef8-4d94-b27c-e194f7457af7",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ef2f7c50-ab97-44b0-a5e8-d6c3e1f0e0d7",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "1d40cc90-f774-4d36-941a-5edd8bc2f127",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ad95f6b1-dd57-4873-a64f-9f6d58549607",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9c40d0b8-79ac-446b-b2e4-05160893b92f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "17e8438e-3393-44b9-ac95-4774990e2011",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a3947a55-2d70-4705-845c-5d5e76fa08d6",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a930c22d-a9eb-4b1a-9509-4930da145532",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "2ea83d1c-c68a-49a3-8a98-edc98208dd50",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f2eef3ca-f34b-41b2-b2ad-d65cd2cb24dc",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "09b99462-1f01-4290-9674-97c4243436b0",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "4558c316-1c5a-4654-9641-aa4597884ea1",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "ab27d4c9-f977-40e3-ba1b-57b20905e363",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d11270d1-46de-4fb8-b94f-e372c0778e45",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "2146a2cb-a5c0-4fde-80d8-f6d21dd59ee5",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "89d429da-cf9a-4c27-a87b-a9ccfc7e69bd",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d76b6586-1e2c-4687-a1b0-c307474f58ee",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "b0fb160f-36f3-42a8-ac52-b6a852e35209",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "4fbe5c0a-25d4-42d6-9a69-8a35758b25af",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "41b99669-4207-4723-be9b-1ccffb6e978c",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d33dafa7-a69c-495f-a256-62cd041eb520",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "e148db75-6098-4739-81fd-21b2531f0a33",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "bc9eb6a6-ca74-4884-8ac8-7ada54dbf55e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "9fa51165-69a0-4350-9051-6707cb02fc05",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "167262db-fd91-440f-a47e-8c1fc0280028",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "a9f4a3b8-4a38-4d29-8495-beb600f0091f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "2056b363-8561-4cdb-875e-ef2c74244a6d",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "fb5b08a8-f78b-4bfe-aebb-2d28ea999ff1",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "dd3096dd-e324-49fb-bc6a-e87470b4bcf5",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d826404b-28fe-4628-8b39-303b3bd19de3",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "d8bcb08d-1c68-4c32-9add-1bf60c0e06b8",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "95d59bee-f037-4548-84cf-e0c483dcb9af",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f93bd935-a4f7-499b-8bb5-d7ff317d7256",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "40965ab9-df22-4d32-991e-732cd382637f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "91ca0111-188d-4d77-a6d0-5cfe03a50a70",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "34e54c49-a6eb-453f-b7df-5c03900f04ce",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "7796e89d-f229-4213-9b97-3b629571d9d1",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "01fdecf9-db50-4f76-a8f6-16ed59937c87",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "07044b5c-0054-4652-a7ad-dc8fc8e979e6",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "81a8b310-d729-49b3-bce4-1c6ffa33fc54",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "f9c5e6d8-60bc-4862-ad89-1cc95a593235",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "158eaf99-677a-406d-bbb2-71a06ee7a4a1",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "7b35e6d7-fa31-4835-adf0-07ed54aa43b7",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "95c232a8-a787-4c5e-b503-ced7bbac80c4",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "09f75c92-5d7b-433e-8b29-ed14775b0ef2",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "75fa0b6a-f243-45a6-a86a-8247d4b80499",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "8a375fbf-8dd9-4c0d-be02-545f87fdaa48",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "b3e2c932-e354-460f-b854-6f851cda9b48",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "df040fb3-70f1-430b-8433-b209f2265fb6",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "15146a93-200d-4a51-a5ba-a1a8c1f87588",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "4f636524-0ad1-41b6-a217-b10ff2b11a1b",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "589a521e-4f97-4aeb-9594-7108a555221f",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "b4b36390-2400-4579-a6a6-cc3d1b868049",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "891d2699-e2be-42ee-9327-e422e13b2124",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-16T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  },
+  {
+    "id": "65dfea30-3616-4d97-a1cb-a29320d8ff3e",
+    "invoiceNumber": null,
+    "companyName": null,
+    "siteName": null,
+    "createdOn": "2022-06-20T00:00:00",
+    "startDate": "0001-01-01T00:00:00",
+    "endDate": "0001-01-01T00:00:00",
+    "status": 0
+  }
 ]

@@ -1,55 +1,42 @@
 {
   "total": 1321,
   "recordList": [
-  {
-    "id": "353d3921-3a78-49cb-9111-65618ceb8c16",
-    "invoice_number": "AS31212",
-    "company_name": "DHL",
-    "site_name": "Site DHL",
-    "createdOn": "2022-06-16T00:00:00",
-    "start_date": "0001-01-01T00:00:00",
-    "end_date": "0001-01-01T00:00:00",
-    "status": 0
-  },
-  {
-    "id": "353d3921-3a78-49cb-9111-65618ceb8c17",
-    "invoice_number": "BFG1212",
-    "company_name": "Amasten",
-    "site_name": "",
-    "createdOn": "2022-06-16T00:00:00",
-    "start_date": "0001-01-01T00:00:00",
-    "end_date": "0001-01-01T00:00:00",
-    "status": 1
-  },
-  {
-    "id": "4b484e62-90d0-47bd-b523-80643e14a9ca",
-    "invoice_number": "SDFG1212",
-    "company_name": "Alfa",
-    "site_name": "",
-    "createdOn": "2022-06-16T00:00:00",
-    "start_date": "0001-01-01T00:00:00",
-    "end_date": "0001-01-01T00:00:00",
-    "status": 3
-  },
-  {
-    "id": "019c603e-3ad3-4448-b24c-dd046be286ba",
-    "invoice_number": "KK2000002",
-    "company_name": "KB Kungsbron 21",
-    "site_name": "",
-    "createdOn": "2022-06-16T00:00:00",
-    "start_date": "0001-01-01T00:00:00",
-    "end_date": "0001-01-01T00:00:00",
-    "status": 4
-  },
-  {
-    "id": "0214242d-7de3-480d-ad8b-686d532976e9",
-    "invoice_number": "FASH000001",
-    "company_name": "Fastighets",
-    "site_name": "",
-    "createdOn": "2022-06-16T00:00:00",
-    "start_date": "0001-01-01T00:00:00",
-    "end_date": "0001-01-01T00:00:00",
-    "status": 2
-  }
+        "companyName":"Atrium Ljungberg AB Kista Front",
+      "siteName":"Atriumkistafront",
+      "createdOn":"2021-01-31T00:00:00",
+      "startDate":"2020-07-01T00:00:00",
+      "endDate":"2020-12-31T00:00:00",
+      "status":4
+   },
+   {
+      "id":"f5f42b52-c6bf-466f-aeb6-9bd30e99b007",
+      "invoiceNumber":"FCH000001",
+      "companyName":"Farsta Centrum HB",
+      "siteName":"AL Farsta Centrum",
+      "createdOn":"2021-01-31T00:00:00",
+      "startDate":"2020-07-01T00:00:00",
+      "endDate":"2020-12-31T00:00:00",
+      "status":4
+   },
+   {
+      "id":"6ed4de43-e357-446f-92d4-403c592a2671",
+      "invoiceNumber":"SIK000001",
+      "companyName":"Sickla Industrifastigheter KB",
+      "siteName":"AL Sickla Magasinet",
+      "createdOn":"2021-01-31T00:00:00",
+      "startDate":"2020-07-01T00:00:00",
+      "endDate":"2020-12-31T00:00:00",
+      "status":4
+   },
+   {
+      "id":"b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",
+      "invoiceNumber":"SIK000002",
+      "companyName":"Sickla Industrifastigheter KB",
+      "siteName":"AL Sickla M7",
+      "createdOn":"2021-01-31T00:00:00",
+      "startDate":"2020-07-01T00:00:00",
+      "endDate":"2020-12-31T00:00:00",
+      "status":4
+   }
 ]
 }

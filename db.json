@@ -2,8 +2,10 @@
   "total": 1321,
   "recordList": [
     {
-      "companyName":"Atrium Ljungberg AB Kista Front",
-      "siteName":"Atriumkistafront",
+      "id":"31bd174b-7a54-42ed-994a-aa735fb8771b",
+      "invoiceNumber":"ALB3A000001",
+      "companyName":"Atrium Ljungberg Borgarfjord 3 AB",
+      "siteName":"AL Borgarfjord 3",
       "createdOn":"2021-01-31T00:00:00",
       "startDate":"2020-07-01T00:00:00",
       "endDate":"2020-12-31T00:00:00",

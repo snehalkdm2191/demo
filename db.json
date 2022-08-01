@@ -9,7 +9,7 @@
       "createdOn":"2021-01-31T00:00:00",
       "startDate":"2020-07-01T00:00:00",
       "endDate":"2020-12-31T00:00:00",
-      "status":4
+      "status":0
    },
    {
       "id":"f5f42b52-c6bf-466f-aeb6-9bd30e99b007",
@@ -19,7 +19,7 @@
       "createdOn":"2021-01-31T00:00:00",
       "startDate":"2020-07-01T00:00:00",
       "endDate":"2020-12-31T00:00:00",
-      "status":4
+      "status":1
    },
    {
       "id":"6ed4de43-e357-446f-92d4-403c592a2671",
@@ -29,7 +29,17 @@
       "createdOn":"2021-01-31T00:00:00",
       "startDate":"2020-07-01T00:00:00",
       "endDate":"2020-12-31T00:00:00",
-      "status":4
+      "status":2
+   },
+   {
+      "id":"b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",
+      "invoiceNumber":"SIK000002",
+      "companyName":"Sickla Industrifastigheter KB",
+      "siteName":"AL Sickla M7",
+      "createdOn":"2021-01-31T00:00:00",
+      "startDate":"2020-07-01T00:00:00",
+      "endDate":"2020-12-31T00:00:00",
+      "status":3
    },
    {
       "id":"b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",

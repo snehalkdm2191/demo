@@ -1,55 +1,205 @@
 {
-  "total": 1321,
+  "total": 2582,
   "recordList": [
     {
-      "id":"31bd174b-7a54-42ed-994a-aa735fb8771b",
-      "invoiceNumber":"ALB3A000001",
-      "companyName":"Atrium Ljungberg Borgarfjord 3 AB",
-      "siteName":"AL Borgarfjord 3",
-      "createdOn":"2021-01-31T00:00:00",
-      "startDate":"2020-07-01T00:00:00",
-      "endDate":"2020-12-31T00:00:00",
-      "status":0
-   },
-   {
-      "id":"f5f42b52-c6bf-466f-aeb6-9bd30e99b007",
-      "invoiceNumber":"FCH000001",
-      "companyName":"Farsta Centrum HB",
-      "siteName":"AL Farsta Centrum",
-      "createdOn":"2021-01-31T00:00:00",
-      "startDate":"2020-07-01T00:00:00",
-      "endDate":"2020-12-31T00:00:00",
-      "status":1
-   },
-   {
-      "id":"6ed4de43-e357-446f-92d4-403c592a2671",
-      "invoiceNumber":"SIK000001",
-      "companyName":"Sickla Industrifastigheter KB",
-      "siteName":"AL Sickla Magasinet",
-      "createdOn":"2021-01-31T00:00:00",
-      "startDate":"2020-07-01T00:00:00",
-      "endDate":"2020-12-31T00:00:00",
-      "status":2
-   },
-   {
-      "id":"b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",
-      "invoiceNumber":"SIK000002",
-      "companyName":"Sickla Industrifastigheter KB",
-      "siteName":"AL Sickla M7",
-      "createdOn":"2021-01-31T00:00:00",
-      "startDate":"2020-07-01T00:00:00",
-      "endDate":"2020-12-31T00:00:00",
-      "status":3
-   },
-   {
-      "id":"b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",
-      "invoiceNumber":"SIK000002",
-      "companyName":"Sickla Industrifastigheter KB",
-      "siteName":"AL Sickla M7",
-      "createdOn":"2021-01-31T00:00:00",
-      "startDate":"2020-07-01T00:00:00",
-      "endDate":"2020-12-31T00:00:00",
-      "status":4
-   }
-]
+      "id": "8c6fabad-aa53-4b77-b622-a72b17cd2396",
+      "invoiceNumber": "KK1A000006",
+      "companyName": "Kungsleden Kista 1 AB",
+      "siteName": "Kungsleden Kista One",
+      "createdOn": "2022-07-15T00:00:00",
+      "startDate": "2022-03-31T00:00:00",
+      "endDate": "2022-06-30T00:00:00",
+      "status": 1
+    },
+    {
+      "id": "788d7f9b-40a2-44ba-beb7-026b6babe191",
+      "invoiceNumber": "ALB3A000004",
+      "companyName": "Atrium Ljungberg Borgarfjord 3 AB",
+      "siteName": "AL Kista - Borgarfjord 3",
+      "createdOn": "2022-07-15T00:00:00",
+      "startDate": "2021-12-31T00:00:00",
+      "endDate": "2022-06-30T00:00:00",
+      "status": 0
+    },
+    {
+      "id": "fc87601b-cecb-4c5f-9de0-79adcbde8850",
+      "invoiceNumber": "KHAJ000006",
+      "companyName": "Kungsleden Hornafjord AB",
+      "siteName": "Kungsleden Hornafjord AB",
+      "createdOn": "2022-07-15T00:00:00",
+      "startDate": "2022-03-31T00:00:00",
+      "endDate": "2022-06-30T00:00:00",
+      "status": 0
+    },
+    {
+      "id": "da38a522-a723-4616-9d3d-2e12d61a01c9",
+      "invoiceNumber": "KTACNH000002",
+      "companyName": "Kungsleden Thorild AB c/o Newsec AM AB",
+      "siteName": "Kungsleden P-hus Gallionen Uddevalla",
+      "createdOn": "2022-07-15T00:00:00",
+      "startDate": "2021-12-31T00:00:00",
+      "endDate": "2022-06-30T00:00:00",
+      "status": 0
+    },
+    {
+      "id": "456169e4-edef-4de3-b00b-a8ccc6a31464",
+      "invoiceNumber": "JMJHK000001",
+      "companyName": "John Mattson Juno Herkules KB",
+      "siteName": "John Mattson Merkuriusvägen, ReVolt",
+      "createdOn": "2022-07-15T00:00:00",
+      "startDate": "2021-12-31T00:00:00",
+      "endDate": "2022-06-30T00:00:00",
+      "status": 0
+    },
+    {
+      "id": "31bd174b-7a54-42ed-994a-aa735fb8771b",
+      "invoiceNumber": "ALB3A000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Borgarfjord 3",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "e5aba784-f2f6-42a6-bcce-bb431c703824",
+      "invoiceNumber": "ALEA000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "Atrium Chokladfabriken",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "64c630ee-1ff1-46ef-a0f7-1548190b5447",
+      "invoiceNumber": "ALKN000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AtriumNOD",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "cae779a3-dfc6-40fe-9aa1-3c97fb22aaf5",
+      "invoiceNumber": "ALS1A000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Slakthuset",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "9b5313cb-826a-4843-9849-c2c24a095815",
+      "invoiceNumber": "ALAKF000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "Atriumkistafront",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "f5f42b52-c6bf-466f-aeb6-9bd30e99b007",
+      "invoiceNumber": "FCH000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Farsta Centrum",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "6ed4de43-e357-446f-92d4-403c592a2671",
+      "invoiceNumber": "SIK000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Sickla Magasinet",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "b5e5e7fe-f4ef-4d2d-a8e2-d9e81637fab4",
+      "invoiceNumber": "SIK000002",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Sickla M7",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "04bda58f-7ea6-4b94-8459-a28f0eea5ce7",
+      "invoiceNumber": "SIK000003",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Sickla Gallerian",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "8758d710-238d-42a7-85e9-017742a263b8",
+      "invoiceNumber": "SIK000004",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Sickla Runda Huset",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "b55ab6b7-296a-4018-a30d-4b83e1d7ae33",
+      "invoiceNumber": "SIK000005",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Sickla ICA garaget",
+      "createdOn": "2021-01-31T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "8c276d86-72a4-4b82-8b0f-4909f6ed0ae4",
+      "invoiceNumber": "ALUA000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "AL Uddvägen",
+      "createdOn": "2021-02-03T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "926e0b51-68b4-4938-b45d-a4321495b78e",
+      "invoiceNumber": "BC000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "Brf Catalinabacken",
+      "createdOn": "2021-02-03T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "16db799e-792d-4d2d-85ba-7a5ba52548c2",
+      "invoiceNumber": "SCS000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "Södra Catalinagränds Samfällighet",
+      "createdOn": "2021-03-19T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    },
+    {
+      "id": "637aeeab-168c-4045-b3a0-ee2d67abb0d1",
+      "invoiceNumber": "BRS000001",
+      "companyName": "arjun.thakur@eways.se;Christoffer.bogardh@eways.se",
+      "siteName": "Brf Rödkinda Strand",
+      "createdOn": "2021-02-03T00:00:00",
+      "startDate": "2020-07-01T00:00:00",
+      "endDate": "2020-12-31T00:00:00",
+      "status": 4
+    }
+  ]
 }
